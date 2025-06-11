@@ -1,12 +1,11 @@
-# React + Vite
+# Vistas previas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Captura de pantalla 2025-06-10 a la(s) 5 52 23 p  m](https://github.com/user-attachments/assets/45f1bacb-ea93-447f-8507-cffa2938a78b)
 
-Currently, two official plugins are available:
+![Captura de pantalla 2025-06-10 a la(s) 5 52 31 p  m  (2)](https://github.com/user-attachments/assets/3f98748b-0e3d-4409-a242-35b5c7371345)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Captura de pantalla 2025-06-10 a la(s) 5 52 45 p  m](https://github.com/user-attachments/assets/6bb2ef4e-7e6d-47f9-a95e-746c96ba76fe)
 
-## Expanding the ESLint configuration
+![Captura de pantalla 2025-06-10 a la(s) 5 52 55 p  m](https://github.com/user-attachments/assets/ffe92f73-2d67-4fce-8c8f-ac4ae2730951)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Captura de pantalla 2025-06-10 a la(s) 5 53 32 p  m](https://github.com/user-attachments/assets/98f74016-ee9c-4ca2-b325-0a09c4df2244)
